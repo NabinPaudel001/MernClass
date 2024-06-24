@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "main": "index.js",
+  "scripts": {
+    "go": "nodemon .",
+    "final": "node ."
+  },
+  "dependencies": {
+    "express": "4.19.2",
+    "mongoose": "8.4.3",
+    "dotenv": "16.4.5"
+  }
+}
